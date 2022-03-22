@@ -46,7 +46,7 @@
     <ul>
       <li>Easy going person</li>
       <li>Detailed oriented</li>
-      <li>Curious person and passionate learner</li>
+      <li>Curious and passionate learner</li>
       <li>Good interpersonal communication skills</li>
     </ul>
  </section>
