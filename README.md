@@ -28,28 +28,28 @@
   <meta description="starting the path in technology, i'm in the second period of analisys and systems development at PUCPR"/>
 </head>
 <body>
- <section>
-   
-  <h2>HARD SKILLS (basics):</h2>
+ <div class="box-area">
+  <h2> HARD SKILLS (basics): </h2>
     <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>Adobe XD</li>
-      <li>Java</li>
-      <li>Python</li>
-      <li>MySQL (database modeling and queries)</li>
-      <li>Mycropython with IoT</li>
-      <li>Blockchain</li>
+      <li> HTML </li>
+      <li> CSS </li>
+      <li> Adobe XD </li>
+      <li> Java </li>
+      <li> Python </li>
+      <li> MySQL (database modeling and queries) </li>
+      <li> Mycropython with IoT </li>
+      <li> Blockchain </li>
     </ul>
-   
-   <h2>SOFT SKILLS</h2>
+
+   <h2> SOFT SKILLS </h2>
     <ul>
-      <li>Easy going person</li>
-      <li>Detailed oriented</li>
-      <li>Curious and passionate learner</li>
-      <li>Good interpersonal communication skills</li>
+      <li> Easy going person </li>
+      <li> Detailed oriented </li>
+      <li> Curious and passionate learner </li>
+      <li> Good interpersonal communication skills </li>
     </ul>
- </section>
+ </div>
+
  <footer>
    
    That's it for today! See ya! 
