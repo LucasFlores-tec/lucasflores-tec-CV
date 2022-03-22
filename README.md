@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=1F6FEB&size=25&center=true&vCenter=true&lines=Hi+there,+I'm+Lucas!;Olá,+meu+nome+é+Lucas">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=1F6FEB&size=25&center=true&vCenter=true&lines=Hi+there,+I'm+Lucas!;Olá,+meu+nome+é+Lucas!">
 </p>
 
 ### Get in touch
@@ -21,7 +21,6 @@
 ### About me
 
 ```html
-<!doctype html>
 <html lang="english(fluent)">
 <head>
   <meta keywords="he/him, brazilian, curitiba, husband, christian, 28 years old"/>
@@ -56,6 +55,7 @@
   
  </footer>
 </body>
+</html>
 ```
 
 <div style="display: inline_block"><br>
