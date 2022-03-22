@@ -1,4 +1,4 @@
-### Bem-vindo! Wellcome! Lucas Flores 👋
+### Bem-vindo! Welcome! Lucas Flores 👋
 
 - 🔭 I’m currently working as Development Assistant || Assistente de Desenvolvimento de Aplicações
 - 🎓 I’m currently studying Analisys and Systems Development at PUCPR || Análise e Desenvolvimento de Sistemas na PUCPR
