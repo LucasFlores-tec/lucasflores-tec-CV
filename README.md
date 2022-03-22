@@ -64,5 +64,4 @@
   <img align="center" alt="lucas-AdobeXd" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg">
   <img align="center" alt="lucas-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="lucas-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="lucas-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 </div>
