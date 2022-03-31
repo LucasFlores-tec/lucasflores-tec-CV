@@ -24,7 +24,7 @@
 <html lang="english(fluent)">
 <head>
   <meta keywords="he/him, brazilian, curitiba, husband, christian, 28 years old"/>
-  <meta description="starting the path in technology, i'm in the second period of analisys and systems development at PUCPR"/>
+  <meta description="starting the path in technology, i'm in the second period of analysis and systems development at PUCPR"/>
 </head>
 <body>
  <div class="box-area">
