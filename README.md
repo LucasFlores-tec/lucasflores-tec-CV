@@ -21,25 +21,22 @@
 ### About me
 
 ```html
-<html lang="english(fluent)">
+<html lang="portuguese(native), english(fluent)">
 <head>
   <meta keywords="he/him, brazilian, curitiba, husband, christian, 28 years old"/>
-  <meta description="starting the path in technology, i'm in the second period of analysis and systems development at PUCPR"/>
+  <meta description="undergrad btech of analysis and systems development at PUCPR (3rd period)"/>
 </head>
 <body>
  <div class="box-area">
-  <h2> HARD SKILLS (basics): </h2>
+  <h2> HARD SKILLS </h2>
     <ul>
-      <li> HTML </li>
-      <li> CSS </li>
-      <li> Adobe XD </li>
       <li> Java </li>
-      <li> Python </li>
+      <li> Spring Boot | Spring Data JPA </li>
       <li> MySQL (database modeling and queries) </li>
-      <li> Mycropython with IoT </li>
-      <li> Blockchain </li>
+      <li> Adobe Experience Manager </li>
+      <li> SOLID Principles </li>
+      <li> Design Patterns </li>
     </ul>
-
    <h2> SOFT SKILLS </h2>
     <ul>
       <li> Easy going person </li>
@@ -48,20 +45,15 @@
       <li> Good interpersonal communication skills </li>
     </ul>
  </div>
-
  <footer>
-   
-   That's it for today! See ya! 
-  
+   <p>That's it for today! See ya! </p>
  </footer>
 </body>
 </html>
 ```
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="lucas-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="lucas-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="lucas-AdobeXd" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg">
-  <img align="center" alt="lucas-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="lucas-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="lucas-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="lucas-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
