@@ -20,37 +20,9 @@
 
 ### About me
 
-```html
-<html lang="portuguese(native), english(fluent)">
-<head>
-  <meta keywords="he/him, brazilian, curitiba, husband, christian, 28 years old"/>
-  <meta description="undergrad btech of analysis and systems development at PUCPR (3rd period)"/>
-</head>
-<body>
- <div class="box-area">
-  <h2> HARD SKILLS </h2>
-    <ul>
-      <li> Java </li>
-      <li> Spring Boot | Spring Data JPA </li>
-      <li> MySQL (database modeling and queries) </li>
-      <li> Adobe Experience Manager </li>
-      <li> SOLID Principles </li>
-      <li> Design Patterns </li>
-    </ul>
-   <h2> SOFT SKILLS </h2>
-    <ul>
-      <li> Easy going person </li>
-      <li> Detailed oriented </li>
-      <li> Curious and passionate learner </li>
-      <li> Good interpersonal communication skills </li>
-    </ul>
- </div>
- <footer>
-   <p>That's it for today! See ya! </p>
- </footer>
-</body>
-</html>
-```
+- Student of System Analysis and Development at PUCPR
+- Backend Developer Trainee at Valtech_
+- Hard skils: Java 8 & 11 | AEM | Spring Boot | MySQL
 
 <div style="display: inline_block"><br>
   <img align="center" alt="lucas-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
